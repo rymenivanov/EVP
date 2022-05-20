@@ -1,0 +1,2 @@
+[18-Jun-2018 20:14:16 UTC] PHP Fatal error:  Access level to App\Manufacturer::$timestamps must be public (as in class Illuminate\Database\Eloquent\Model) in /home/fundhjvh/elr.fundamental.bg/app/Manufacturer.php on line 30
+[18-Jun-2018 20:14:43 UTC] PHP Fatal error:  Access level to App\Manufacturer::$timestamps must be public (as in class Illuminate\Database\Eloquent\Model) in /home/fundhjvh/elr.fundamental.bg/app/Manufacturer.php on line 30
